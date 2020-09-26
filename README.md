@@ -38,9 +38,9 @@ The features in this dataset are provided as following
 
 Size of the Dataset:
 Number of attributes (columns) = 18
-Number of data samples (rows) / region = 
+Number of data samples (rows) / region = 420768
 Number of Regions: 12
-Total Instances = 18 * 35064 * 12 = 7,573,824
+Total Instances = 18 * 420768 * 12 = 
 
 ## Data Preprocessing
 ### Appending Data
