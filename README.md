@@ -11,6 +11,8 @@ The main objective of this project is to predict the PM 2.5 levels in the air to
 To predict the PM 2.5 levels in the air to determine the Air quality of Beijing. There are multiple datasets concerning different districts in Beijing. The data was recorded hourly for each district.
  
 ## Data Description
+The data source for this project is taken from the following website - https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data
+
 This data set includes hourly air pollutants data from 12 nationally-controlled air-quality monitoring sites. The air-quality data are from the Beijing Municipal Environmental Monitoring Center. The meteorological data in each air-quality site are matched with the nearest weather station from the China Meteorological Administration. The time period is from March 1st, 2013 to February 28th, 2017. Missing data are denoted as NA.
 
 The features in this dataset are provided as following
